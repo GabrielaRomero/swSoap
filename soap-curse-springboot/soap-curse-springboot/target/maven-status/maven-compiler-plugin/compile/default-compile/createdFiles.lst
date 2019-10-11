@@ -1,0 +1,17 @@
+com\gabriela\courses\DeleteCourseDetailResponse.class
+com\gabriela\courses\CourseDetails.class
+com\soap\webservices\soapcursespringboot\soap\service\CourseDetailsService.class
+com\gabriela\courses\GetCourseDetailResponse.class
+com\gabriela\courses\DeleteCourseDetailRequest.class
+com\soap\webservices\soapcursespringboot\soap\bean\Course.class
+com\soap\webservices\soapcursespringboot\soap\WebServiceConfig.class
+com\gabriela\courses\Status.class
+com\gabriela\courses\package-info.class
+com\soap\webservices\soapcursespringboot\soap\CourseDetailsEndpoint.class
+com\soap\webservices\soapcursespringboot\SoapCurseSpringbootApplication.class
+com\soap\webservices\soapcursespringboot\soap\exception\CourseNotFoudException.class
+com\gabriela\courses\GetAllCourseDetailRequest.class
+com\gabriela\courses\GetCourseDetailRequest.class
+com\soap\webservices\soapcursespringboot\soap\service\CourseDetailsService$status.class
+com\gabriela\courses\GetAllCourseDetailResponse.class
+com\gabriela\courses\ObjectFactory.class
